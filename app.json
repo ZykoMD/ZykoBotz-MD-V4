@@ -1,0 +1,12 @@
+{
+  "name": "ZykoBotz-MD Official",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/ZykoBotz-MD",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
