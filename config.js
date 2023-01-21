@@ -55,15 +55,15 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6285806917113', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['6285806917113', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '1(858) 504-7359' //pasang no bot lo 
+global.nomorown = '6285806917113' //pasang no own lo
+global.nomorown1 = '6285806917113'
+global.nomorown2 = '6281515854072'
 global.nomorwa = '0'
 global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
